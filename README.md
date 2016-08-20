@@ -1,2 +1,7 @@
 # react-app-example
-React v15 Application Example
+React Application | Example Template
+
+# install
+- npm install webpack webpack-dev-server -g
+- npm install --save
+- npm start
