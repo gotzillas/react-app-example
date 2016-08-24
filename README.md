@@ -6,3 +6,6 @@ React Application | Example Template
 - npm install --save
 - npm start
 - http://localhost:8000/
+
+# demo
+![React Application | Example Template](./images/2016-08-25_0-35-37.png)
